@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Arx Talionis | Coming Soon</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #0e0e0e;
+      color: #e0e0e0;
+    }
+    header {
+      background: linear-gradient(to right, #3b0a45, #1e2a78);
+      padding: 3rem 2rem;
+      text-align: center;
+    }
+    header h1 {
+      font-size: 3rem;
+      margin: 0;
+    }
+    header p {
+      font-size: 1.2rem;
+      color: #bbb;
+    }
+    section {
+      padding: 2rem;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+    h2 {
+      color: #ffcc00;
+    }
+    .feature {
+      margin-bottom: 1rem;
+    }
+    footer {
+      background: #1c1c1c;
+      color: #666;
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+    }
+    .email-box {
+      margin-top: 2rem;
+      background: #1a1a1a;
+      padding: 1rem;
+      text-align: center;
+      border-radius: 6px;
+    }
+    .email-box input {
+      padding: 0.5rem;
+      width: 60%;
+      max-width: 300px;
+      border: none;
+      border-radius: 3px;
+    }
+    .email-box button {
+      padding: 0.5rem 1rem;
+      margin-left: 0.5rem;
+      background: #ffcc00;
+      color: black;
+      border: none;
+      cursor: pointer;
+      border-radius: 3px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Arx Talionis</h1>
+    <p>A Living City of Echoes and Ruin</p>
+  </header>
+
+  <section>
+    <h2>Coming Soon</h2>
+    <p><strong>Arx Talionis</strong> is a city-scale simulation game where NPCs remember, factions evolve, and your choices ripple through a world that never forgets.</p>
+
+    <div class="feature">
+      ✨ <strong>Quantum NPCs:</strong> Emotions, memories, and manipulation
+    </div>
+    <div class="feature">
+      ⚖️ <strong>Favor-Based Economy:</strong> Social currency, IOUs, betrayal
+    </div>
+    <div class="feature">
+      ⚔️ <strong>Monthly Dungeon Breaks:</strong> Creatures flood the city, survivors remember
+    </div>
+    <div class="feature">
+      ⚛️ <strong>Infrastructure Simulation:</strong> Food, water, disease, social collapse
+    </div>
+    <div class="feature">
+      ⚖️ <strong>Faction Power Shifts:</strong> Your actions ripple through the city’s politics
+    </div>
+
+    <div class="email-box">
+      <p>Want to be notified when we launch?</p>
+      <input type="email" placeholder="you@domain.com">
+      <button>Notify Me</button>
+    </div>
+  </section>
+
+  <footer>
+    &copy; 2025 Talionis Studios. All rights reserved.<br>
+    Developed by a Kobold in the dark with a crayon and a keyboard.
+  </footer>
+</body>
+</html>
